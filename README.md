@@ -2,12 +2,11 @@
 
 ## Description
 
-Digital Marketing Page for Horiseon. This project is built to explain different aspects of digital marketing to users. The main goal is to educate users on the importance of digital marketing. 
+Digital Marketing Page for Horiseon. This project is built to explain different aspects of digital marketing to users. The main goal is to educate users on the importance of digital marketing.
 
 
 ## Usage
-
-
+## ![Horiseon](assets/images/screenshot1.png)
 
 
 ## License
