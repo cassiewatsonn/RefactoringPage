@@ -8,6 +8,8 @@ Digital Marketing Page for Horiseon. This project is built to explain different 
 ## Usage
 ## ![Horiseon](assets/images/screenshot1.png)
 
+## Link 
+https://cassiewatsonn.github.io/RefactoringPage/#social-media-marketing
 
 ## License
 
