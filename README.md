@@ -21,7 +21,7 @@ When I view the title element, I find a concise, descriptive title.
 ## ![Horiseon](assets/images/screenshot1.png)
 
 ## Link 
-https://cassiewatsonn.github.io/RefactoringPage/#social-media-marketing
+https://cassiewatsonn.github.io/RefactoringPage/
 
 ## Credits 
 N/A 
